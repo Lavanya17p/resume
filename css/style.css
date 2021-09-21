@@ -1,0 +1,23 @@
+body{
+    color: #2e2e2e;
+    /* background-color: #555; */
+
+}
+
+
+.tag_line{
+    font-size: 16px;
+    color: #2e2e2e;
+}
+img{
+    height: 400px;
+}
+.summary{
+    line-height: 2;
+}
+.text-warning {
+    color: #16a7de!important;
+}
+.bg-secondary {
+    background-color: rgb(22 167 222) !important;
+}
